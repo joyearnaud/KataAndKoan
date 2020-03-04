@@ -52,3 +52,7 @@ hs_err_pid*
 # Default ignored files
 /workspace.xml
 
+.idea/
+.kotlintest/
+KataAndKoan.iml
+target/*
